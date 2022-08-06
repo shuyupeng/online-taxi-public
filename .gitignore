@@ -1,0 +1,7 @@
+online-taxi-public\
+
+# Project exclude paths
+/api-passenger/target/
+/internal-common/target/
+/service-passenger-user/target/
+/target/
